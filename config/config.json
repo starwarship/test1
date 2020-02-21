@@ -1,0 +1,7 @@
+
+module.exports = {
+	"port": 8080,
+    "root": "D:\front end study\大一寒假\红岩\redrock",
+    "indexPage": "yingxin.html"
+
+}
